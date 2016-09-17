@@ -2,7 +2,7 @@ cask 'mega' do
   version '7.0.18'
   sha256 :no_check
 
-  url "http://www.megasoftware.net/releases/MEGA#{version}_mac32_setup.dmg" "http://update.megasoftware.net/MEGA_setup.dmg"
+  url "http://www.megasoftware.net/releases/MEGA#{version}_mac32_setup.dmg"
   name 'MEGA'
   homepage 'http://megasoftware.net/'
   license :gratis
